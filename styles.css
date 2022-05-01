@@ -1,48 +1,13 @@
 body {
-  background-image: url('ảnh/nenn.png');
+  background-image: url('ảnh/hinhnen.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  /*background-color: powderblue;*/
+  
 }
-
-h1 {
-  color: #FF99FF;
-  font-family: verdana;
-  font-size: 300%;
-  text-align: center;
-}
-p {
-  /*color: red;*/
-  font-family: courier;
-  font-size: 160%;
-  text-align:center;
-}
-h2 {
+h4 {
   border: 2px solid black;
   padding: 10px;
   font-family: Brush Script MT;
   margin: 0;
 }
-pre {
-  font-size: 100%;
-  font-family: Times;
-}
-   table{
-   border: 5px double black;
-   border-collapse: collapse;
-   font-size:30px;
-   }
-   th, td{
-   border: 1px solid black;
-   padding-top:12px;
-   padding-bottom:12px;
-   padding-left:13px;
-   padding-right:13px;
-   }
-   th{ background-color: #33FFFF;}
-  tr:nth-child(odd)
-   {background-color:lightgreen;}
- 
-
-   
