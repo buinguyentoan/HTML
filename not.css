@@ -1,13 +1,29 @@
 body {
-  background-image: url('image/hinhnen.jpg');
+  background-image: url('ảnh/hinhnen.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   
+  
 }
-h4 {
+
+div {
   border: 2px solid black;
-  padding: 10px;
+  padding: 8px;
   font-family: Brush Script MT;
   margin: 0;
+  width:50%;
+  background-color:Beige;
+
 }
+p {
+  /*color: red;*/
+  font-family:Brush Script MT;
+  font-size: 20px;
+  text-align:center;
+  
+}
+pre{
+padding:0;
+margin:0;
+font-size:17px;}
